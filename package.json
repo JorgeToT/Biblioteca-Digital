@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://jorgetot.github.io/Biblioteca-Digital",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -16,6 +17,7 @@
   "dependencies": {
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
+    "gh-pages": "^4.0.0",
     "jest": "^28.1.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
