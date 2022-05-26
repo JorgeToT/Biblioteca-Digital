@@ -9,13 +9,13 @@ import books from "../src/books.json";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 const bookViews = books.map((book) => {
-  return <Route key={book.id} path={"/Biblioteca-Digital/" + book.id} element={<ReadPDF />} />;
+  return <Route key={book.id} path={book.id} element={<ReadPDF />} />;
 });
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/Biblioteca-Digital" element={<App />} />
-      <Route path="/Biblioteca-Digital/library" element={<Library />} />
+      <Route path="/" element={<App />} />
+      <Route path="library" element={<Library />} />
       {bookViews}
     </Routes>
   </BrowserRouter>
