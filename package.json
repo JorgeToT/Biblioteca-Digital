@@ -1,9 +1,9 @@
 {
   "name": "biblioteca-digital",
+  "homepage": "https://jorgetot.github.io/Biblioteca-Digital/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://jorgetot.github.io/Biblioteca-Digital/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -22,6 +22,7 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-pdf": "^5.7.2",
+    "react-router": "^6.3.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1"
   },
