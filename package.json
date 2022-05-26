@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://jorgetot.github.io/Biblioteca-Digital",
+  "homepage": "https://jorgetot.github.io/Biblioteca-Digital/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
