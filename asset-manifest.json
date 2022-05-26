@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Biblioteca-Digital/static/css/main.d3fbc668.css",
-    "main.js": "/Biblioteca-Digital/static/js/main.7f21987b.js",
+    "main.js": "/Biblioteca-Digital/static/js/main.bb1f553d.js",
     "pdf.worker.js": "/Biblioteca-Digital/e7e915313973ba1d49f9bb2a1998626e.js",
     "static/media/logo.png": "/Biblioteca-Digital/static/media/logo.29d7b0d6bf3ff182dd43.png",
     "static/media/1.pdf": "/Biblioteca-Digital/static/media/1.81e9d610000de997d108.pdf",
     "index.html": "/Biblioteca-Digital/index.html",
     "main.d3fbc668.css.map": "/Biblioteca-Digital/static/css/main.d3fbc668.css.map",
-    "main.7f21987b.js.map": "/Biblioteca-Digital/static/js/main.7f21987b.js.map"
+    "main.bb1f553d.js.map": "/Biblioteca-Digital/static/js/main.bb1f553d.js.map"
   },
   "entrypoints": [
     "static/css/main.d3fbc668.css",
-    "static/js/main.7f21987b.js"
+    "static/js/main.bb1f553d.js"
   ]
 }
