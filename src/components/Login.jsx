@@ -18,9 +18,6 @@ function Login() {
       if (user.username === username && user.password === password) {
         document.location.href = "library";
         return true;
-      } else {
-        window.alert("Usuario o contraseña incorrecta");
-        return false;
       }
     });
   }
