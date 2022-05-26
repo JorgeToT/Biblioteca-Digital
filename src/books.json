@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "El escarabajo de Oro",
+    "img": "https://www.elejandria.com/covers/El_escarabajo_de_oro-Allan_Poe_Edgar-lg.png",
+    "author": "Edgar Allan Poe",
+    "description": "El escarabajo de oro. En “El escarabajo de oro” se narra la aventura de un individuo que encuentra un mensaje cifrado en el que se indica la localización del fabuloso tesoro del capitán Kidd. Poe, un excelente criptoanalista aficionado, explica con detalle cómo se descifra el mensaje mediante técnicas estadísticas."
+  },
+  {
+    "id": "2",
+    "title": "Geometría Analítica",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71yM31NubEL.jpg",
+    "author": "Lehmann",
+    "description": "Aprende a resolver problemas de geometría analítica."
+  },
+  {
+    "id": "3",
+    "title": "Calculus 1",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81Y9kKB7CKL.jpg",
+    "author": "Apostol",
+    "description": "Cálculo con funciones de una variable."
+  },
+  {
+    "id": "4",
+    "title": "Cálculo de varias variables: Trascendentes tempranas",
+    "img": "https://latinoamerica.cengage.com/wp-content/uploads/portadas/full/9786075265520.jpg",
+    "author": "James Stewart",
+    "description": "Cálculo de varias variables."
+  }
+]
