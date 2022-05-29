@@ -1,14 +1,34 @@
 [
     {
-        "id": "1",
-        "name": "Jorge",
-        "username": "1511346",
-        "password": "1511346"
+        "id": "1443965",
+        "nombre": "Valeria Romo Martínez",
+        "cuenta": "1443965",
+        "carrera": "A",
+        "semestre": "6",
+        "vista": "search"
     },
     {
-        "id": "2",
-        "name": "Eduardo",
-        "username": "1511201",
-        "password": "1511201"
+        "id": "1511346",
+        "nombre": "Jorge Aguilar Velázquez Admin",
+        "cuenta": "1511346",
+        "carrera": "A",
+        "semestre": "8",
+        "vista": "admin"
+    },
+    {
+        "id": "1511346",
+        "nombre": "Jorge Aguilar Velázquez",
+        "cuenta": "1511346",
+        "carrera": "A",
+        "semestre": "8",
+        "vista": "search"
+    },
+    {
+        "id": "1511201",
+        "nombre": "Eduardo Trujillo Alvez",
+        "cuenta": "1511201",
+        "carrera": "A",
+        "semestre": "8",
+        "vista": "search"
     }
 ]
