@@ -6,7 +6,7 @@ function Books(props) {
       </a>
       <div>
         <h2>{props.title}</h2>
-        <p>- {props.author}</p>
+        <p>- {props.autor}</p>
         <p>Género/Materia: {props.materia}</p>
         <p>Id: {props.id}</p>
         <p>Click a la imagen para descargar</p>

@@ -25,7 +25,7 @@ header {
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#735807",endColorstr="#395922",GradientType=1);
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   color: #fff;
 }
@@ -56,7 +56,7 @@ header a {
   border-radius: 20px;
   margin: 100px 0 0 200px;
   color: white;
-  font-family: 'Roboto', sans-serif;;
+  font-family: "Roboto", sans-serif;
 }
 
 .Login button {
@@ -67,7 +67,7 @@ header a {
   background: #395922;
   color: #fff;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   margin: 20px auto;
   cursor: pointer;
 }
@@ -85,7 +85,7 @@ header a {
   border-radius: 10px;
 }
 
-.Login select{
+.Login select {
   padding: 5px;
   font-size: 18px;
   width: 100%;
@@ -103,31 +103,31 @@ header a {
 }
 
 .booksData {
-  background-color: rgba(191, 144, 4, .7);
+  background-color: rgba(191, 144, 4, 0.7);
   padding: 30px;
   border-radius: 40px;
   margin: 60px 20%;
   display: flex;
   align-items: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-size: 17px;
 }
 
-.booksData p{
+.booksData p {
   margin: 0 0 20px 0;
 }
 
-.search{
+.search {
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   margin: 60px 40px;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
-.search input{
+.search input {
   padding: 12px;
   size: 50px;
   font-size: 20px;
@@ -136,13 +136,12 @@ header a {
   border-radius: 10px;
 }
 
-.search h1{
+.search h1 {
   font-size: 20px;
   margin: 15px 0;
-
 }
 
-.search button{
+.search button {
   width: 50%;
   height: 50px;
   border: none;
@@ -150,12 +149,12 @@ header a {
   background: #395922;
   color: #fff;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   margin: 15px auto;
   cursor: pointer;
 }
 
-.button-green{
+.button-green {
   display: flex;
   width: 50%;
   height: 50px;
@@ -164,12 +163,53 @@ header a {
   background: #395922;
   color: #fff;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   cursor: pointer;
   justify-content: center;
   align-items: center;
   text-decoration: none;
   margin: 15px auto;
+}
+
+.textAdmin {
+  color: #fff;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.edit--listBook {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.edit--listBook input {
+  width: 100%;
+  border-radius: 20px;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+.edit--buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.edit--buttons button{
+  background: #395922;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: #fff;
 }
 
 @media (max-width: 600px) {
@@ -180,7 +220,7 @@ header a {
     width: 50px;
     margin: 10px 20px 10px 30px;
   }
-  header svg{
+  header svg {
     width: 25px;
   }
   header a {
@@ -189,7 +229,7 @@ header a {
   .Login {
     margin: 100px 0;
   }
-  .Login form{
+  .Login form {
     width: 260px;
   }
   .Login label {
@@ -200,23 +240,23 @@ header a {
     font-size: 17px;
     margin: 20px 0;
   }
-  .Login select{
+  .Login select {
     width: 80%;
     font-size: 17px;
   }
   .Login button {
     font-size: 17px;
   }
-  .footer-wave{
+  .footer-wave {
     display: none;
   }
-  .booksData img{
+  .booksData img {
     width: 150px;
   }
-  .booksData{
+  .booksData {
     font-size: 14px;
   }
-  .booksData p{
+  .booksData p {
     margin: 0 0 10px 0;
   }
 }
@@ -229,7 +269,7 @@ header a {
     width: 50px;
     margin: 10px 50px 10px 30px;
   }
-  header svg{
+  header svg {
     width: 20px;
   }
   .Login {
@@ -243,7 +283,7 @@ header a {
     font-size: 14px;
     width: 100%;
   }
-  .Login select{
+  .Login select {
     font-size: 14px;
     width: 100%;
   }
@@ -251,36 +291,36 @@ header a {
     font-size: 17px;
     width: 100%;
   }
-  .footer-wave{
+  .footer-wave {
     display: none;
   }
-  .search h1{
+  .search h1 {
     font-size: 15px;
   }
-  .search input{
-    font-size: 15px;
-    width: 100%;
-  }
-  .search button{
+  .search input {
     font-size: 15px;
     width: 100%;
   }
-  .search a{
+  .search button {
     font-size: 15px;
     width: 100%;
   }
-  .booksData img{
+  .search a {
+    font-size: 15px;
+    width: 100%;
+  }
+  .booksData img {
     width: 100px;
     margin: 0 0 10px 0;
   }
 }
 @media (max-width: 900px) {
-  .booksData{
+  .booksData {
     flex-wrap: wrap;
     flex-direction: column;
     padding: 20px 20px;
   }
-  .booksData img{
+  .booksData img {
     margin: 0 0 10px 0;
   }
 }
