@@ -2,21 +2,20 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./index.css";
-import App from "./App";
+import Login from "./views/Login";
 import Library from "./views/Library";
-import ReadPDF from "./views/ViewRead";
-import books from "../src/books.json";
+import Search from "./views/Search";
+import AdminView from "./views/AdminView";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-const bookViews = books.map((book) => {
-  return <Route key={book.id} path={book.id} element={<ReadPDF />} />;
-});
+
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />} />
+      <Route path="/" element={<Login  />} />
       <Route path="library" element={<Library />} />
-      {bookViews}
+      <Route path="search" element={<Search />} />
+      <Route path="admin" element={<AdminView />} />
     </Routes>
   </BrowserRouter>
 );

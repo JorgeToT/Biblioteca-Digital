@@ -1,6 +1,7 @@
 import Header from "../components/Header";
 import Books from "../components/Books";
 import books from '../books.json';
+import Footer from "../components/Footer";
 import "../App.css";
 
 function Library() {
@@ -10,7 +11,11 @@ function Library() {
   return (
     <div>
       <Header />
+      <a href="search" className="button-green">
+          <span>Ir al buscador</span>
+        </a>
       <section>{bookList}</section>
+      <Footer />
     </div>
   );
 }
