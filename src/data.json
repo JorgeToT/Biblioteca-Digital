@@ -1,66 +1,74 @@
 [
-    {
-        "id": "1443965",
-        "nombre": "Valeria Romo Martínez",
-        "cuenta": "1443965",
-        "carrera": "A",
-        "semestre": "6",
-        "vista": "search"
-    },
-    {
-        "id": "1511346",
-        "nombre": "Jorge Aguilar Velázquez",
-        "cuenta": "1511346",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "search"
-    },
-    {
-        "id": "1511346",
-        "nombre": "Jorge Aguilar Velázquez Admin",
-        "cuenta": "1511346",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "admin"
-    },
-    {
-        "id": "1313740",
-        "nombre": "Carlos Alberto Bobadilla Muciño",
-        "cuenta": "1313740",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "search"
-    },
-    {
-        "id": "1313740",
-        "nombre": "Carlos Alberto Bobadilla Muciño Admin",
-        "cuenta": "1313740",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "admin"
-    },
-    {
-        "id": "1872303",
-        "nombre": "Oscar Eduardo Castañeda Lara",
-        "cuenta": "1872303",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "search"
-    },
-    {
-        "id": "1872303",
-        "nombre": "Oscar Eduardo Castañeda Lara Admin",
-        "cuenta": "1872303",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "admin"
-    },
-    {
-        "id": "1511201",
-        "nombre": "Eduardo Trujillo Alvez",
-        "cuenta": "1511201",
-        "carrera": "A",
-        "semestre": "8",
-        "vista": "search"
-    }
+  {
+    "id": "1443969",
+    "nombre": "Valeria Romo Martínez",
+    "cuenta": "1443969",
+    "carrera": "NIB",
+    "semestre": "10",
+    "vista": "search"
+  },
+  {
+    "id": "1623639",
+    "nombre": "Mária Pérez Sánchez",
+    "cuenta": "1623639",
+    "carrera": "REI",
+    "semestre": "2",
+    "vista": "search"
+  },
+  {
+    "id": "1511209",
+    "nombre": "Eduardo Trujillo Alvez",
+    "cuenta": "1511209",
+    "carrera": "E",
+    "semestre": "6",
+    "vista": "search"
+  },
+  {
+    "id": "1511346",
+    "nombre": "Jorge Aguilar Velázquez",
+    "cuenta": "1511346",
+    "carrera": "A",
+    "semestre": "8",
+    "vista": "search"
+  },
+  {
+    "id": "1511346",
+    "nombre": "Jorge Aguilar Velázquez Admin",
+    "cuenta": "1511346",
+    "carrera": "A",
+    "semestre": "8",
+    "vista": "admin"
+  },
+  {
+    "id": "1313740",
+    "nombre": "Carlos Alberto Bobadilla Muciño",
+    "cuenta": "1313740",
+    "carrera": "A",
+    "semestre": "8",
+    "vista": "search"
+  },
+  {
+    "id": "1313740",
+    "nombre": "Carlos Alberto Bobadilla Muciño Admin",
+    "cuenta": "1313740",
+    "carrera": "A",
+    "semestre": "8",
+    "vista": "admin"
+  },
+  {
+    "id": "1872303",
+    "nombre": "Oscar Eduardo Castañeda Lara",
+    "cuenta": "1872303",
+    "carrera": "A",
+    "semestre": "8",
+    "vista": "search"
+  },
+  {
+    "id": "1872303",
+    "nombre": "Oscar Eduardo Castañeda Lara Admin",
+    "cuenta": "1872303",
+    "carrera": "A",
+    "semestre": "8",
+    "vista": "admin"
+  }
 ]
